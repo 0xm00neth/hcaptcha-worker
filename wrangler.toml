@@ -1,0 +1,4 @@
+name = "hcaptcha-worker"
+type = "javascript"
+workers_dev = true
+compatibility_date = "2022-07-25"
